@@ -1,8 +1,8 @@
 package com.sjc.spring;
 
-import com.sjc.spring.chapter04.soundsystem.CompactDisc;
-import com.sjc.spring.chapter04.soundsystem.TrackCounter;
-import com.sjc.spring.chapter04.soundsystem.TrackCounterConfig;
+import chapter04.soundsystem.CompactDisc;
+import chapter04.soundsystem.TrackCounter;
+import chapter04.soundsystem.TrackCounterConfig;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
